@@ -7,7 +7,7 @@ A classic 2-player **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**
 ## 🚀 Live Demo
 
 🔗 **Play Online Now:**  
-[https://mo
+[https://mohammad-rashidd.github.io/tic-tac-toe/]
 
 ## ✨ Features
 
@@ -33,9 +33,29 @@ A classic 2-player **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**
 
 ---
 
-## 🛠️ Getting Started Locally
+📁 Folder Structure
 
-1. **Clone the repository:**
+tic-tac-toe/
+│
+├── index.html         # HTML structure
+├── style.css          # Styling rules
+├── script.js          # Game logic + DOM interaction
 
-   ```bash
-   git clone https://github.com/Mohammad-Rashidd/tic-tac-toe.git
+
+## 🧠 Future Enhancements (Ideas)
+
+- Single-player mode with AI using Minimax algorithm
+- Highlight the winning combo cells
+- Add sound effects on moves and results
+- Score tracking system
+- Improved mobile gesture support
+
+## 🙏 Acknowledgements
+
+This project was developed as part of a web development learning journey using plain HTML, CSS, and JavaScript. It emphasizes clean code, modularity, and interactive DOM handling.
+
+Inspired by The Odin Project curriculum.
+
+## ✨ Author
+Made with 💻 by Mohammad Rashid
+Feel free to ⭐️ this repo if you found it useful!
